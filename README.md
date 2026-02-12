@@ -240,10 +240,6 @@ Le projet utilise des **données synthétiques réalistes** simulant un environn
 - [ ] Mode temps réel (streaming)
 - [ ] API REST
 
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
 ## 👤 Auteur
 
 **Yassine Chouk** — [@yassinechouk](https://github.com/yassinechouk)
