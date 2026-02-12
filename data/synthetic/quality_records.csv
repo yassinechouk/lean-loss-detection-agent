@@ -1,0 +1,201 @@
+timestamp,product_id,defect_type,quantity,severity,description,machine_id,line_id
+2026-01-13T16:31:12.123362,PROD7559,sur_controle,3,high,Contrôle redondant qualité,PRESS-02,L2
+2026-01-13T17:49:12.123362,PROD3127,rebut,12,medium,Rayure surface critique,CNC-01,L1
+2026-01-13T17:54:12.123362,PROD7717,rebut,13,high,Rayure surface critique,PRESS-01,L2
+2026-01-13T18:48:12.123362,PROD8737,rebut,13,low,Fissure détectée,CNC-01,L1
+2026-01-13T21:30:12.123362,PROD3521,rebut,8,low,Dimension hors tolérance,CNC-01,L1
+2026-01-13T22:09:12.123362,PROD4051,rebut,7,medium,Fissure détectée,CNC-01,L1
+2026-01-14T07:37:12.123362,PROD1346,non_conformite,13,low,Traçabilité incomplète,CNC-02,L1
+2026-01-14T08:28:12.123362,PROD8898,rebut,7,low,Dimension hors tolérance,ASSEMBLY-01,L3
+2026-01-14T19:56:12.123362,PROD4469,rebut,14,low,Fissure détectée,PRESS-01,L2
+2026-01-14T20:17:12.123362,PROD7339,retouche,16,low,Ajustement dimensionnel,PRESS-01,L2
+2026-01-14T20:41:12.123362,PROD4257,rebut,5,low,Bavure excessive,CNC-01,L1
+2026-01-14T23:44:12.123362,PROD5051,rebut,4,low,Dimension hors tolérance,CNC-02,L1
+2026-01-15T01:08:12.123362,PROD3992,retouche,17,medium,Ajustement dimensionnel,ASSEMBLY-01,L3
+2026-01-15T02:45:12.123362,PROD5885,retouche,5,high,Reprise usinage,PRESS-01,L2
+2026-01-15T05:39:12.123362,PROD2906,non_conformite,12,low,Documentation manquante,ASSEMBLY-01,L3
+2026-01-15T06:44:12.123362,PROD6088,rebut,6,low,Rayure surface critique,CNC-01,L1
+2026-01-15T19:40:12.123362,PROD7451,non_conformite,19,critical,Déviation procédure assemblage,PRESS-02,L2
+2026-01-16T03:37:12.123362,PROD5026,retouche,6,low,Reprise usinage,CNC-02,L1
+2026-01-16T03:42:12.123362,PROD9451,retouche,7,high,Ajustement dimensionnel,PRESS-02,L2
+2026-01-16T05:11:12.123362,PROD1940,rebut,9,high,Contamination matière,PRESS-01,L2
+2026-01-16T06:38:12.123362,PROD9340,rebut,15,low,Fissure détectée,CNC-01,L1
+2026-01-16T08:53:12.123362,PROD8861,rebut,12,medium,Défaut d'aspect majeur,CNC-01,L1
+2026-01-16T21:37:12.123362,PROD6402,retouche,10,medium,Ajustement dimensionnel,CNC-01,L1
+2026-01-16T22:09:12.123362,PROD6820,rebut,5,medium,Bavure excessive,CNC-01,L1
+2026-01-16T23:21:12.123362,PROD6972,rebut,3,medium,Dimension hors tolérance,PRESS-01,L2
+2026-01-16T23:21:12.123362,PROD2443,retouche,12,medium,Retouche peinture,CNC-02,L1
+2026-01-16T23:53:12.123362,PROD2110,retouche,2,medium,Ajustement dimensionnel,CNC-02,L1
+2026-01-17T02:36:12.123362,PROD3585,non_conformite,16,low,Documentation manquante,CNC-01,L1
+2026-01-17T02:51:12.123362,PROD4208,rebut,18,critical,Fissure détectée,ASSEMBLY-01,L3
+2026-01-17T08:04:12.123362,PROD7078,rebut,9,low,Dimension hors tolérance,PRESS-01,L2
+2026-01-17T18:46:12.123362,PROD5182,retouche,16,high,Reprise usinage,PRESS-02,L2
+2026-01-17T18:51:12.123362,PROD6742,non_conformite,2,low,Paramètre machine hors plage,CNC-02,L1
+2026-01-17T19:17:12.123362,PROD2154,sur_controle,4,high,Contrôle 100% lot suspect,CNC-01,L1
+2026-01-17T20:02:12.123362,PROD7510,non_conformite,3,medium,Traçabilité incomplète,CNC-01,L1
+2026-01-17T21:05:12.123362,PROD6532,sur_controle,4,medium,Inspection visuelle complète,ASSEMBLY-01,L3
+2026-01-17T21:23:12.123362,PROD2217,rebut,2,high,Bavure excessive,CNC-01,L1
+2026-01-17T22:27:12.123362,PROD9253,retouche,3,high,Retouche peinture,CNC-02,L1
+2026-01-18T00:50:12.123362,PROD6711,rebut,11,medium,Bavure excessive,PRESS-02,L2
+2026-01-18T04:24:12.123362,PROD6769,retouche,12,low,Ajustement dimensionnel,PRESS-02,L2
+2026-01-18T05:41:12.123362,PROD7905,retouche,9,medium,Reprise usinage,CNC-02,L1
+2026-01-18T07:58:12.123362,PROD9612,retouche,2,low,Reprise usinage,PRESS-01,L2
+2026-01-18T16:24:12.123362,PROD7837,sur_controle,16,low,Contrôle redondant qualité,PRESS-01,L2
+2026-01-18T17:47:12.123362,PROD3934,retouche,2,medium,Polissage surface,PRESS-02,L2
+2026-01-18T18:21:12.123362,PROD3988,retouche,20,low,Ajustement dimensionnel,CNC-01,L1
+2026-01-18T19:17:12.123362,PROD9971,rebut,13,medium,Défaut d'aspect majeur,CNC-01,L1
+2026-01-18T19:38:12.123362,PROD3622,rebut,20,medium,Contamination matière,CNC-01,L1
+2026-01-18T22:34:12.123362,PROD5940,rebut,7,low,Défaut d'aspect majeur,CNC-01,L1
+2026-01-18T22:51:12.123362,PROD4096,retouche,5,high,Reprise usinage,CNC-02,L1
+2026-01-19T03:02:12.123362,PROD8241,retouche,4,high,Retouche peinture,PRESS-02,L2
+2026-01-19T03:59:12.123362,PROD9603,retouche,13,medium,Reprise usinage,CNC-01,L1
+2026-01-19T07:15:12.123362,PROD2277,rebut,13,medium,Rayure surface critique,CNC-01,L1
+2026-01-19T08:54:12.123362,PROD6465,retouche,6,critical,Ajustement dimensionnel,CNC-01,L1
+2026-01-19T20:31:12.123362,PROD8415,rebut,2,medium,Bavure excessive,CNC-01,L1
+2026-01-20T06:55:12.123362,PROD3765,non_conformite,6,low,Documentation manquante,ASSEMBLY-01,L3
+2026-01-20T16:47:12.123362,PROD2018,rebut,9,low,Dimension hors tolérance,ASSEMBLY-01,L3
+2026-01-20T18:22:12.123362,PROD3715,rebut,11,medium,Dimension hors tolérance,CNC-01,L1
+2026-01-20T18:26:12.123362,PROD7561,non_conformite,4,medium,Traçabilité incomplète,ASSEMBLY-01,L3
+2026-01-20T19:34:12.123362,PROD6931,rebut,20,low,Dimension hors tolérance,CNC-01,L1
+2026-01-20T20:38:12.123362,PROD6702,rebut,5,high,Bavure excessive,CNC-01,L1
+2026-01-20T21:15:12.123362,PROD7539,retouche,12,low,Polissage surface,PRESS-01,L2
+2026-01-21T04:22:12.123362,PROD6645,rebut,13,low,Défaut d'aspect majeur,PRESS-01,L2
+2026-01-21T05:55:12.123362,PROD4596,retouche,16,medium,Ébavurage nécessaire,PRESS-01,L2
+2026-01-21T07:38:12.123362,PROD4543,non_conformite,16,high,Déviation procédure assemblage,CNC-02,L1
+2026-01-22T02:22:12.123362,PROD5600,rebut,20,high,Fissure détectée,CNC-01,L1
+2026-01-22T16:58:12.123362,PROD5760,rebut,10,high,Rayure surface critique,CNC-01,L1
+2026-01-22T16:59:12.123362,PROD8534,retouche,3,critical,Retouche peinture,PRESS-02,L2
+2026-01-22T17:32:12.123362,PROD6278,rebut,15,high,Dimension hors tolérance,CNC-01,L1
+2026-01-22T19:52:12.123362,PROD9399,retouche,13,critical,Polissage surface,CNC-02,L1
+2026-01-22T23:56:12.123362,PROD6854,rebut,12,high,Contamination matière,CNC-01,L1
+2026-01-23T03:00:12.123362,PROD2700,rebut,17,high,Dimension hors tolérance,PRESS-01,L2
+2026-01-23T03:27:12.123362,PROD7772,retouche,9,high,Retouche peinture,ASSEMBLY-01,L3
+2026-01-23T05:40:12.123362,PROD3288,sur_controle,4,low,Contrôle 100% lot suspect,CNC-01,L1
+2026-01-23T07:35:12.123362,PROD9825,retouche,15,low,Ajustement dimensionnel,CNC-01,L1
+2026-01-24T00:57:12.123362,PROD4003,non_conformite,9,medium,Documentation manquante,CNC-02,L1
+2026-01-24T04:55:12.123362,PROD6724,non_conformite,11,high,Paramètre machine hors plage,ASSEMBLY-01,L3
+2026-01-24T05:56:12.123362,PROD9815,rebut,20,low,Rayure surface critique,PRESS-02,L2
+2026-01-24T06:33:12.123362,PROD4125,sur_controle,5,high,Contrôle redondant qualité,CNC-01,L1
+2026-01-24T06:43:12.123362,PROD1239,rebut,1,critical,Dimension hors tolérance,CNC-01,L1
+2026-01-24T16:16:12.123362,PROD9877,retouche,17,high,Ébavurage nécessaire,CNC-01,L1
+2026-01-24T16:35:12.123362,PROD7440,rebut,18,low,Fissure détectée,CNC-01,L1
+2026-01-24T17:58:12.123362,PROD1223,rebut,2,high,Dimension hors tolérance,CNC-02,L1
+2026-01-24T20:08:12.123362,PROD8942,rebut,11,low,Dimension hors tolérance,PRESS-02,L2
+2026-01-24T23:43:12.123362,PROD1778,retouche,11,low,Ajustement dimensionnel,PRESS-01,L2
+2026-01-25T01:09:12.123362,PROD3845,retouche,13,medium,Ajustement dimensionnel,PRESS-02,L2
+2026-01-25T04:08:12.123362,PROD8296,non_conformite,5,high,Déviation procédure assemblage,CNC-02,L1
+2026-01-25T05:48:12.123362,PROD9142,rebut,9,high,Fissure détectée,CNC-01,L1
+2026-01-25T06:56:12.123362,PROD2572,rebut,3,critical,Bavure excessive,PRESS-01,L2
+2026-01-25T07:16:12.123362,PROD6161,non_conformite,9,low,Déviation procédure assemblage,PRESS-01,L2
+2026-01-25T23:20:12.123362,PROD4113,non_conformite,13,medium,Déviation procédure assemblage,CNC-02,L1
+2026-01-26T05:06:12.123362,PROD5498,retouche,11,low,Ébavurage nécessaire,PRESS-01,L2
+2026-01-26T05:41:12.123362,PROD5166,non_conformite,10,low,Documentation manquante,PRESS-01,L2
+2026-01-26T17:24:12.123362,PROD3356,rebut,14,low,Dimension hors tolérance,CNC-02,L1
+2026-01-26T18:13:12.123362,PROD1341,retouche,11,medium,Retouche peinture,PRESS-01,L2
+2026-01-26T22:27:12.123362,PROD6872,rebut,17,high,Dimension hors tolérance,PRESS-02,L2
+2026-01-27T03:17:12.123362,PROD9682,retouche,3,critical,Polissage surface,ASSEMBLY-01,L3
+2026-01-27T20:52:12.123362,PROD5887,non_conformite,8,high,Traçabilité incomplète,CNC-01,L1
+2026-01-27T21:37:12.123362,PROD4105,sur_controle,11,low,Inspection visuelle complète,PRESS-02,L2
+2026-01-28T00:32:12.123362,PROD4305,rebut,9,low,Rayure surface critique,CNC-01,L1
+2026-01-28T01:58:12.123362,PROD5480,sur_controle,20,high,Vérification dimensionnelle renforcée,PRESS-01,L2
+2026-01-28T03:36:12.123362,PROD7939,rebut,6,medium,Défaut d'aspect majeur,CNC-01,L1
+2026-01-28T05:55:12.123362,PROD7617,sur_controle,6,low,Inspection visuelle complète,PRESS-02,L2
+2026-01-28T08:45:12.123362,PROD9886,rebut,4,critical,Défaut d'aspect majeur,PRESS-01,L2
+2026-01-28T16:35:12.123362,PROD7259,retouche,2,low,Reprise usinage,PRESS-01,L2
+2026-01-28T17:39:12.123362,PROD5817,rebut,13,critical,Rayure surface critique,CNC-01,L1
+2026-01-28T17:40:12.123362,PROD4848,rebut,8,low,Défaut d'aspect majeur,CNC-01,L1
+2026-01-28T22:20:12.123362,PROD6569,sur_controle,14,low,Contrôle redondant qualité,ASSEMBLY-01,L3
+2026-01-28T22:26:12.123362,PROD1131,retouche,14,low,Reprise usinage,CNC-02,L1
+2026-01-29T01:54:12.123362,PROD7520,retouche,12,low,Retouche peinture,CNC-02,L1
+2026-01-29T06:22:12.123362,PROD8878,sur_controle,20,high,Inspection visuelle complète,CNC-01,L1
+2026-01-29T16:31:12.123362,PROD3509,rebut,4,medium,Défaut d'aspect majeur,ASSEMBLY-01,L3
+2026-01-29T17:40:12.123362,PROD1012,rebut,13,high,Dimension hors tolérance,CNC-01,L1
+2026-01-29T18:08:12.123362,PROD6398,rebut,4,low,Dimension hors tolérance,CNC-01,L1
+2026-01-29T23:00:12.123362,PROD1859,sur_controle,8,high,Vérification dimensionnelle renforcée,ASSEMBLY-01,L3
+2026-01-30T07:45:12.123362,PROD3951,rebut,14,medium,Contamination matière,CNC-01,L1
+2026-01-31T02:20:12.123362,PROD4518,non_conformite,18,medium,Paramètre machine hors plage,CNC-01,L1
+2026-01-31T02:24:12.123362,PROD1813,sur_controle,19,high,Inspection visuelle complète,PRESS-02,L2
+2026-01-31T06:49:12.123362,PROD7195,retouche,6,medium,Ébavurage nécessaire,PRESS-01,L2
+2026-01-31T08:31:12.123362,PROD8820,rebut,15,high,Rayure surface critique,ASSEMBLY-01,L3
+2026-01-31T19:08:12.123362,PROD1193,rebut,4,low,Dimension hors tolérance,CNC-01,L1
+2026-01-31T20:30:12.123362,PROD8494,retouche,18,low,Reprise usinage,ASSEMBLY-01,L3
+2026-02-01T04:18:12.123362,PROD4120,sur_controle,10,high,Vérification dimensionnelle renforcée,PRESS-02,L2
+2026-02-01T05:07:12.123362,PROD6437,rebut,1,high,Contamination matière,CNC-01,L1
+2026-02-01T07:13:12.123362,PROD9364,retouche,4,high,Retouche peinture,ASSEMBLY-01,L3
+2026-02-01T07:53:12.123362,PROD3350,sur_controle,15,low,Vérification dimensionnelle renforcée,PRESS-01,L2
+2026-02-01T22:31:12.123362,PROD6274,retouche,11,medium,Ajustement dimensionnel,CNC-01,L1
+2026-02-02T01:27:12.123362,PROD7439,sur_controle,6,low,Vérification dimensionnelle renforcée,CNC-01,L1
+2026-02-02T02:51:12.123362,PROD1210,sur_controle,16,critical,Contrôle redondant qualité,CNC-02,L1
+2026-02-02T04:09:12.123362,PROD2276,retouche,15,critical,Polissage surface,CNC-02,L1
+2026-02-02T05:56:12.123362,PROD4477,retouche,7,low,Retouche peinture,CNC-02,L1
+2026-02-02T07:01:12.123362,PROD5644,retouche,13,medium,Ajustement dimensionnel,CNC-01,L1
+2026-02-02T17:37:12.123362,PROD4749,rebut,11,high,Fissure détectée,CNC-01,L1
+2026-02-02T21:14:12.123362,PROD5081,rebut,15,medium,Fissure détectée,CNC-01,L1
+2026-02-02T23:28:12.123362,PROD1724,retouche,3,high,Polissage surface,PRESS-01,L2
+2026-02-02T23:35:12.123362,PROD6603,rebut,20,medium,Contamination matière,CNC-01,L1
+2026-02-03T05:11:12.123362,PROD1956,sur_controle,13,medium,Inspection visuelle complète,CNC-01,L1
+2026-02-03T20:42:12.123362,PROD2422,non_conformite,18,medium,Paramètre machine hors plage,CNC-02,L1
+2026-02-04T01:11:12.123362,PROD8974,sur_controle,7,medium,Vérification dimensionnelle renforcée,CNC-02,L1
+2026-02-04T01:34:12.123362,PROD8788,non_conformite,4,low,Traçabilité incomplète,ASSEMBLY-01,L3
+2026-02-04T04:15:12.123362,PROD5596,rebut,18,medium,Défaut d'aspect majeur,CNC-01,L1
+2026-02-04T05:38:12.123362,PROD6405,retouche,5,medium,Polissage surface,CNC-02,L1
+2026-02-04T07:23:12.123362,PROD2340,rebut,9,medium,Dimension hors tolérance,CNC-01,L1
+2026-02-04T07:36:12.123362,PROD1520,rebut,5,medium,Bavure excessive,CNC-02,L1
+2026-02-04T19:36:12.123362,PROD6870,sur_controle,11,medium,Contrôle 100% lot suspect,CNC-02,L1
+2026-02-05T01:06:12.123362,PROD3245,rebut,3,critical,Dimension hors tolérance,CNC-02,L1
+2026-02-05T01:56:12.123362,PROD3654,retouche,5,critical,Ajustement dimensionnel,PRESS-01,L2
+2026-02-05T05:17:12.123362,PROD2845,sur_controle,12,medium,Inspection visuelle complète,CNC-01,L1
+2026-02-05T07:14:12.123362,PROD2020,retouche,9,low,Reprise usinage,ASSEMBLY-01,L3
+2026-02-05T17:54:12.123362,PROD1712,non_conformite,10,medium,Traçabilité incomplète,CNC-02,L1
+2026-02-05T22:17:12.123362,PROD7421,non_conformite,5,medium,Documentation manquante,ASSEMBLY-01,L3
+2026-02-05T22:42:12.123362,PROD3703,rebut,7,low,Rayure surface critique,PRESS-01,L2
+2026-02-06T02:18:12.123362,PROD7878,retouche,5,medium,Ajustement dimensionnel,PRESS-01,L2
+2026-02-06T03:11:12.123362,PROD6827,retouche,3,medium,Polissage surface,CNC-02,L1
+2026-02-06T04:18:12.123362,PROD8797,rebut,16,critical,Rayure surface critique,ASSEMBLY-01,L3
+2026-02-06T04:57:12.123362,PROD4063,retouche,5,medium,Polissage surface,ASSEMBLY-01,L3
+2026-02-06T05:41:12.123362,PROD4707,rebut,5,low,Rayure surface critique,PRESS-02,L2
+2026-02-06T16:41:12.123362,PROD6320,rebut,13,medium,Fissure détectée,CNC-01,L1
+2026-02-06T19:07:12.123362,PROD8149,rebut,5,low,Dimension hors tolérance,CNC-01,L1
+2026-02-06T21:43:12.123362,PROD3628,non_conformite,18,low,Traçabilité incomplète,CNC-01,L1
+2026-02-07T00:35:12.123362,PROD6382,rebut,20,low,Défaut d'aspect majeur,CNC-01,L1
+2026-02-07T03:22:12.123362,PROD5855,sur_controle,17,critical,Vérification dimensionnelle renforcée,PRESS-01,L2
+2026-02-07T05:20:12.123362,PROD6275,retouche,3,medium,Polissage surface,PRESS-01,L2
+2026-02-07T06:24:12.123362,PROD6297,retouche,13,low,Ajustement dimensionnel,ASSEMBLY-01,L3
+2026-02-07T17:29:12.123362,PROD5563,retouche,9,medium,Retouche peinture,ASSEMBLY-01,L3
+2026-02-07T17:50:12.123362,PROD1295,retouche,18,medium,Retouche peinture,PRESS-01,L2
+2026-02-07T19:27:12.123362,PROD7286,rebut,1,low,Bavure excessive,CNC-01,L1
+2026-02-07T19:42:12.123362,PROD1219,rebut,8,low,Fissure détectée,CNC-01,L1
+2026-02-08T03:27:12.123362,PROD3422,sur_controle,19,low,Vérification dimensionnelle renforcée,CNC-01,L1
+2026-02-08T03:31:12.123362,PROD2768,retouche,6,low,Retouche peinture,PRESS-02,L2
+2026-02-08T06:04:12.123362,PROD8988,rebut,11,low,Défaut d'aspect majeur,PRESS-01,L2
+2026-02-08T08:56:12.123362,PROD1179,retouche,9,high,Polissage surface,CNC-02,L1
+2026-02-08T19:21:12.123362,PROD4094,retouche,5,low,Ébavurage nécessaire,ASSEMBLY-01,L3
+2026-02-08T23:40:12.123362,PROD5521,rebut,15,critical,Contamination matière,CNC-02,L1
+2026-02-09T07:30:12.123362,PROD8337,rebut,3,low,Défaut d'aspect majeur,CNC-01,L1
+2026-02-09T07:59:12.123362,PROD9325,rebut,7,medium,Contamination matière,CNC-01,L1
+2026-02-09T17:10:12.123362,PROD8397,rebut,11,medium,Bavure excessive,PRESS-02,L2
+2026-02-09T19:29:12.123362,PROD7715,rebut,7,high,Fissure détectée,CNC-02,L1
+2026-02-09T19:56:12.123362,PROD3450,retouche,14,medium,Polissage surface,CNC-01,L1
+2026-02-10T03:17:12.123362,PROD9802,rebut,16,high,Rayure surface critique,ASSEMBLY-01,L3
+2026-02-10T04:25:12.123362,PROD1682,rebut,2,low,Défaut d'aspect majeur,PRESS-02,L2
+2026-02-10T04:59:12.123362,PROD8390,retouche,11,high,Ébavurage nécessaire,PRESS-01,L2
+2026-02-10T07:02:12.123362,PROD9727,retouche,20,high,Ajustement dimensionnel,CNC-01,L1
+2026-02-10T16:47:12.123362,PROD3982,sur_controle,7,medium,Vérification dimensionnelle renforcée,PRESS-02,L2
+2026-02-10T19:28:12.123362,PROD9766,non_conformite,16,low,Paramètre machine hors plage,PRESS-02,L2
+2026-02-10T20:48:12.123362,PROD5923,rebut,5,medium,Bavure excessive,CNC-01,L1
+2026-02-10T23:39:12.123362,PROD7528,retouche,13,critical,Ajustement dimensionnel,CNC-01,L1
+2026-02-11T01:36:12.123362,PROD8860,rebut,3,high,Dimension hors tolérance,CNC-01,L1
+2026-02-11T01:41:12.123362,PROD9481,rebut,9,medium,Dimension hors tolérance,PRESS-02,L2
+2026-02-11T01:47:12.123362,PROD3222,retouche,10,high,Retouche peinture,PRESS-02,L2
+2026-02-11T06:52:12.123362,PROD1333,retouche,4,high,Ajustement dimensionnel,PRESS-02,L2
+2026-02-11T07:37:12.123362,PROD3856,rebut,11,high,Défaut d'aspect majeur,CNC-01,L1
+2026-02-11T16:34:12.123362,PROD7930,sur_controle,10,low,Vérification dimensionnelle renforcée,ASSEMBLY-01,L3
+2026-02-11T18:38:12.123362,PROD8737,rebut,9,low,Bavure excessive,PRESS-01,L2
+2026-02-11T19:10:12.123362,PROD3521,rebut,13,medium,Défaut d'aspect majeur,CNC-01,L1
+2026-02-11T20:00:12.123362,PROD6529,rebut,6,medium,Fissure détectée,ASSEMBLY-01,L3
+2026-02-12T01:12:12.123362,PROD3909,non_conformite,10,low,Traçabilité incomplète,ASSEMBLY-01,L3
+2026-02-12T04:34:12.123362,PROD8615,retouche,9,medium,Ajustement dimensionnel,PRESS-02,L2
+2026-02-12T06:24:12.123362,PROD4415,non_conformite,14,low,Documentation manquante,ASSEMBLY-01,L3
+2026-02-12T06:36:12.123362,PROD6765,retouche,8,medium,Ajustement dimensionnel,PRESS-01,L2
+2026-02-12T07:27:12.123362,PROD5424,rebut,4,low,Contamination matière,CNC-01,L1
+2026-02-12T07:42:12.123362,PROD8466,rebut,8,medium,Contamination matière,CNC-01,L1

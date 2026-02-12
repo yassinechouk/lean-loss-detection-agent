@@ -1,0 +1,81 @@
+timestamp,incident_id,category,description,impact_level,resolution_time_hours,root_cause,machine_id,line_id
+2026-01-13T19:25:12.125230,INC0059,erreur_operateur,Erreur réglage paramètres,4,9.4,Procédure peu claire,PRESS-02,L2
+2026-01-14T05:19:12.125230,INC0058,defaut_qualite,Lot non-conforme détecté,1,3.6,Erreur opérateur,CNC-02,L1
+2026-01-14T20:53:12.125230,INC0057,panne_mecanique,Fuite huile hydraulique,3,10.9,Manque de lubrification,CNC-01,L1
+2026-01-14T22:40:12.125230,INC0077,panne_electrique,Problème carte électronique,3,4.1,Problème câblage,PRESS-02,L2
+2026-01-14T22:49:12.125230,INC0062,probleme_logistique,Rupture stock matière première,3,8.3,Erreur système informatique,PRESS-02,L2
+2026-01-15T04:49:12.125230,INC0075,probleme_logistique,Sur-stock encombrant,2,0.6,Défaillance fournisseur,CNC-02,L1
+2026-01-15T07:46:12.125230,INC0052,probleme_logistique,Rupture stock matière première,1,1.5,Communication insuffisante,PRESS-02,L2
+2026-01-15T18:17:12.125230,INC0049,panne_mecanique,Casse outil usinage,3,10.2,Manque de lubrification,PRESS-02,L2
+2026-01-16T01:13:12.125230,INC0016,defaut_qualite,Lot non-conforme détecté,3,8.9,Dérive paramètres process,CNC-01,L1
+2026-01-16T20:18:12.125230,INC0033,panne_mecanique,Défaillance roulement broche,4,10.7,Manque de lubrification,CNC-01,L1
+2026-01-17T00:54:12.125230,INC0021,panne_electrique,Problème carte électronique,5,36.7,Vieillissement composants,CNC-02,L1
+2026-01-17T16:47:12.125230,INC0072,panne_electrique,Surchauffe moteur,3,6.8,Problème câblage,CNC-01,L1
+2026-01-17T22:37:12.125230,INC0069,probleme_logistique,Sur-stock encombrant,3,3.9,Erreur système informatique,PRESS-02,L2
+2026-01-19T00:55:12.125230,INC0040,panne_electrique,Problème carte électronique,1,2.8,Problème câblage,ASSEMBLY-01,L3
+2026-01-19T17:21:12.125230,INC0041,defaut_qualite,Non-conformité client,4,15.5,Matière première non-conforme,CNC-02,L1
+2026-01-20T05:37:12.125230,INC0026,defaut_qualite,Dérive dimensionnelle progressive,2,2.4,Erreur opérateur,PRESS-02,L2
+2026-01-20T17:14:12.125230,INC0017,panne_mecanique,Fuite huile hydraulique,3,10.6,Défaut de conception,CNC-02,L1
+2026-01-21T05:16:12.125230,INC0066,erreur_operateur,Mauvais montage outil,4,15.3,Procédure peu claire,CNC-01,L1
+2026-01-21T17:31:12.125230,INC0025,probleme_logistique,Erreur référence fourniture,2,3.4,Mauvaise planification,CNC-01,L1
+2026-01-21T18:39:12.125230,INC0037,probleme_logistique,Mauvais routage pièces,4,9.3,Communication insuffisante,PRESS-02,L2
+2026-01-23T01:17:12.125230,INC0048,panne_mecanique,Défaillance roulement broche,2,2.4,Défaut de conception,PRESS-02,L2
+2026-01-23T04:33:12.125230,INC0001,panne_mecanique,Casse outil usinage,2,3.0,Défaut de conception,CNC-01,L1
+2026-01-23T06:36:12.125230,INC0007,panne_mecanique,Usure excessive glissières,2,1.4,Usure normale en fin de vie,ASSEMBLY-01,L3
+2026-01-24T08:35:12.125230,INC0060,defaut_qualite,Lot non-conforme détecté,2,3.4,Matière première non-conforme,PRESS-01,L2
+2026-01-24T21:53:12.125230,INC0005,erreur_operateur,Oubli opération,1,3.6,Distraction momentanée,ASSEMBLY-01,L3
+2026-01-25T00:52:12.125230,INC0068,defaut_qualite,Non-conformité client,2,3.8,Matière première non-conforme,ASSEMBLY-01,L3
+2026-01-25T03:57:12.125230,INC0042,erreur_operateur,Non-respect procédure,3,10.4,Procédure peu claire,CNC-01,L1
+2026-01-25T06:34:12.125230,INC0043,panne_electrique,Défaut variateur vitesse,4,17.5,Humidité excessive,PRESS-02,L2
+2026-01-25T19:04:12.125230,INC0034,erreur_operateur,Confusion références produits,1,0.8,Formation insuffisante,PRESS-01,L2
+2026-01-26T01:32:12.125230,INC0004,defaut_qualite,Lot non-conforme détecté,3,7.3,Matière première non-conforme,PRESS-01,L2
+2026-01-26T03:47:12.125230,INC0029,panne_mecanique,Rupture courroie transmission,4,12.1,Défaut de conception,ASSEMBLY-01,L3
+2026-01-26T19:55:12.125230,INC0036,erreur_operateur,Confusion références produits,1,3.4,Fatigue fin de shift,CNC-01,L1
+2026-01-26T23:17:12.125230,INC0078,probleme_logistique,Sur-stock encombrant,3,3.8,Défaillance fournisseur,CNC-01,L1
+2026-01-27T00:00:12.125230,INC0055,erreur_operateur,Confusion références produits,3,6.9,Formation insuffisante,CNC-01,L1
+2026-01-27T05:25:12.125230,INC0009,panne_electrique,Défaut variateur vitesse,3,6.6,Surtension réseau,CNC-01,L1
+2026-01-28T01:40:12.125230,INC0031,panne_electrique,Capteur en court-circuit,3,5.3,Vieillissement composants,CNC-02,L1
+2026-01-28T23:15:12.125230,INC0044,erreur_operateur,Non-respect procédure,3,6.0,Distraction momentanée,ASSEMBLY-01,L3
+2026-01-29T01:26:12.125230,INC0002,panne_electrique,Capteur en court-circuit,2,3.5,Problème câblage,ASSEMBLY-01,L3
+2026-01-29T19:45:12.125230,INC0051,panne_electrique,Disjonction circuit commande,3,9.1,Humidité excessive,CNC-01,L1
+2026-01-30T02:31:12.125230,INC0012,probleme_logistique,Retard livraison composant,1,1.2,Communication insuffisante,PRESS-01,L2
+2026-01-30T04:30:12.125230,INC0020,erreur_operateur,Oubli opération,3,9.1,Fatigue fin de shift,CNC-02,L1
+2026-01-30T20:26:12.125230,INC0063,panne_mecanique,Défaillance roulement broche,3,7.9,Manque de lubrification,CNC-02,L1
+2026-01-30T21:46:12.125230,INC0008,probleme_logistique,Mauvais routage pièces,2,2.9,Erreur système informatique,PRESS-01,L2
+2026-01-31T03:16:12.125230,INC0024,panne_mecanique,Usure excessive glissières,4,23.0,Défaut de conception,PRESS-02,L2
+2026-01-31T16:58:12.125230,INC0011,defaut_qualite,Contamination process,3,3.3,Usure outil de coupe,ASSEMBLY-01,L3
+2026-01-31T18:06:12.125230,INC0035,defaut_qualite,Dérive dimensionnelle progressive,4,17.5,Dérive paramètres process,CNC-01,L1
+2026-01-31T22:19:12.125230,INC0006,probleme_logistique,Rupture stock matière première,5,46.1,Communication insuffisante,CNC-02,L1
+2026-01-31T23:01:12.125230,INC0050,panne_mecanique,Rupture courroie transmission,3,11.3,Usure normale en fin de vie,PRESS-02,L2
+2026-02-01T01:48:12.125230,INC0056,probleme_logistique,Erreur référence fourniture,3,8.2,Défaillance fournisseur,CNC-02,L1
+2026-02-02T00:14:12.125230,INC0080,erreur_operateur,Non-respect procédure,2,1.9,Procédure peu claire,PRESS-02,L2
+2026-02-02T03:49:12.125230,INC0019,erreur_operateur,Erreur réglage paramètres,3,5.9,Procédure peu claire,ASSEMBLY-01,L3
+2026-02-02T08:44:12.125230,INC0061,panne_electrique,Disjonction circuit commande,4,8.4,Humidité excessive,PRESS-02,L2
+2026-02-02T19:28:12.125230,INC0065,panne_mecanique,Rupture courroie transmission,2,1.0,Manque de lubrification,PRESS-01,L2
+2026-02-02T23:17:12.125230,INC0067,panne_mecanique,Rupture courroie transmission,4,15.6,Surcharge mécanique,ASSEMBLY-01,L3
+2026-02-03T04:49:12.125230,INC0018,panne_mecanique,Usure excessive glissières,4,16.3,Surcharge mécanique,PRESS-02,L2
+2026-02-03T19:07:12.125230,INC0032,panne_electrique,Problème carte électronique,1,3.0,Vieillissement composants,PRESS-02,L2
+2026-02-03T19:20:12.125230,INC0022,defaut_qualite,Contamination process,4,10.4,Usure outil de coupe,CNC-01,L1
+2026-02-04T22:18:12.125230,INC0039,panne_electrique,Capteur en court-circuit,2,2.5,Surtension réseau,PRESS-02,L2
+2026-02-04T22:50:12.125230,INC0045,erreur_operateur,Confusion références produits,3,8.3,Distraction momentanée,ASSEMBLY-01,L3
+2026-02-05T02:19:12.125230,INC0074,probleme_logistique,Rupture stock matière première,2,0.6,Erreur système informatique,ASSEMBLY-01,L3
+2026-02-05T04:10:12.125230,INC0076,panne_mecanique,Défaillance roulement broche,4,20.0,Manque de lubrification,CNC-01,L1
+2026-02-05T07:18:12.125230,INC0064,panne_mecanique,Défaillance roulement broche,3,6.0,Manque de lubrification,PRESS-01,L2
+2026-02-06T05:48:12.125230,INC0023,defaut_qualite,Défaut répétitif sur série,5,32.0,Dérive paramètres process,ASSEMBLY-01,L3
+2026-02-06T05:59:12.125230,INC0038,panne_electrique,Surchauffe moteur,3,7.2,Humidité excessive,PRESS-01,L2
+2026-02-06T06:36:12.125230,INC0015,probleme_logistique,Rupture stock matière première,4,15.3,Défaillance fournisseur,CNC-02,L1
+2026-02-06T23:55:12.125230,INC0014,panne_mecanique,Fuite huile hydraulique,4,20.6,Défaut de conception,PRESS-02,L2
+2026-02-07T00:51:12.125230,INC0071,panne_mecanique,Casse outil usinage,2,1.5,Défaut de conception,PRESS-01,L2
+2026-02-07T01:07:12.125230,INC0054,erreur_operateur,Non-respect procédure,1,3.8,Procédure peu claire,ASSEMBLY-01,L3
+2026-02-07T08:31:12.125230,INC0079,erreur_operateur,Mauvais montage outil,3,11.9,Distraction momentanée,CNC-02,L1
+2026-02-07T18:14:12.125230,INC0013,panne_mecanique,Usure excessive glissières,1,2.2,Usure normale en fin de vie,CNC-02,L1
+2026-02-08T09:10:12.125230,INC0047,probleme_logistique,Sur-stock encombrant,3,4.5,Défaillance fournisseur,CNC-01,L1
+2026-02-08T20:07:12.125230,INC0053,defaut_qualite,Contamination process,2,3.1,Usure outil de coupe,ASSEMBLY-01,L3
+2026-02-10T00:12:12.125230,INC0027,erreur_operateur,Oubli opération,4,8.1,Distraction momentanée,ASSEMBLY-01,L3
+2026-02-10T22:25:12.125230,INC0030,erreur_operateur,Non-respect procédure,2,2.4,Distraction momentanée,ASSEMBLY-01,L3
+2026-02-10T23:40:12.125230,INC0028,panne_electrique,Surchauffe moteur,3,8.6,Problème câblage,CNC-01,L1
+2026-02-11T00:18:12.125230,INC0010,panne_mecanique,Rupture courroie transmission,2,3.7,Défaut de conception,ASSEMBLY-01,L3
+2026-02-11T17:24:12.125230,INC0046,probleme_logistique,Sur-stock encombrant,1,2.2,Erreur système informatique,PRESS-01,L2
+2026-02-11T17:33:12.125230,INC0070,defaut_qualite,Contamination process,2,3.4,Matière première non-conforme,CNC-02,L1
+2026-02-11T22:10:12.125230,INC0073,erreur_operateur,Confusion références produits,2,0.7,Distraction momentanée,CNC-01,L1
+2026-02-12T05:10:12.125230,INC0003,erreur_operateur,Mauvais montage outil,3,7.4,Fatigue fin de shift,CNC-02,L1

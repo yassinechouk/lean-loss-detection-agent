@@ -1,0 +1,501 @@
+timestamp,machine_id,event_type,duration_minutes,description,line_id,operator_id,shift
+2026-01-13T16:15:12.118512,CNC-01,normal,31.12,Cycle standard,L1,OP004,matin
+2026-01-13T16:38:12.118512,ASSEMBLY-01,ralentissement,49.05,Température ambiante élevée,L3,OP003,matin
+2026-01-13T17:24:12.118512,CNC-01,micro_arret,1.47,Vérification qualité rapide,L1,OP008,matin
+2026-01-13T20:57:12.118512,PRESS-02,micro_arret,2.45,Attente pièce suivante,L2,OP005,matin
+2026-01-13T21:56:12.118512,CNC-02,normal,36.44,Production normale,L1,OP011,matin
+2026-01-14T00:12:12.118512,ASSEMBLY-01,normal,44.26,Fonctionnement optimal,L3,OP014,matin
+2026-01-14T00:41:12.118512,CNC-01,normal,28.33,Cycle standard,L1,OP004,apres-midi
+2026-01-14T04:20:12.118512,CNC-01,normal,36.56,Cycle standard,L1,OP011,apres-midi
+2026-01-14T05:30:12.118512,PRESS-02,normal,43.4,Production normale,L2,OP009,apres-midi
+2026-01-14T06:08:12.118512,CNC-01,normal,28.64,Production normale,L1,OP015,apres-midi
+2026-01-14T16:31:12.118512,PRESS-02,normal,17.35,Fonctionnement optimal,L2,OP006,matin
+2026-01-14T17:17:12.118512,CNC-02,normal,39.41,Cycle standard,L1,OP007,matin
+2026-01-14T19:59:12.118512,CNC-01,normal,29.19,Production conforme,L1,OP008,matin
+2026-01-14T20:03:12.118512,CNC-01,normal,43.58,Cycle standard,L1,OP006,matin
+2026-01-14T22:26:12.118512,CNC-01,arret,79.25,Attente validation qualité,L1,OP013,matin
+2026-01-15T04:13:12.118512,CNC-01,normal,33.4,Cycle standard,L1,OP009,apres-midi
+2026-01-15T04:26:12.118512,CNC-01,ralentissement,173.19,Pression hydraulique faible,L1,OP015,apres-midi
+2026-01-15T04:31:12.118512,PRESS-01,arret,77.87,Attente validation qualité,L2,OP012,apres-midi
+2026-01-15T06:38:12.118512,CNC-01,normal,58.73,Production conforme,L1,OP005,apres-midi
+2026-01-15T08:15:12.118512,CNC-01,normal,52.08,Cycle standard,L1,OP008,nuit
+2026-01-15T08:42:12.118512,PRESS-02,normal,21.43,Cycle standard,L2,OP001,nuit
+2026-01-15T09:05:12.118512,ASSEMBLY-01,normal,28.16,Cycle standard,L3,OP005,nuit
+2026-01-15T18:04:12.118512,PRESS-01,normal,45.09,Fonctionnement optimal,L2,OP003,matin
+2026-01-15T18:04:12.118512,PRESS-02,normal,50.09,Fonctionnement optimal,L2,OP010,matin
+2026-01-15T21:22:12.118512,PRESS-02,normal,46.44,Production conforme,L2,OP004,matin
+2026-01-15T21:39:12.118512,CNC-01,normal,39.69,Production conforme,L1,OP003,matin
+2026-01-15T21:57:12.118512,ASSEMBLY-01,normal,23.69,Fonctionnement optimal,L3,OP013,matin
+2026-01-15T22:18:12.118512,CNC-01,normal,57.32,Production conforme,L1,OP004,matin
+2026-01-16T02:40:12.118512,PRESS-01,normal,32.79,Fonctionnement optimal,L2,OP006,apres-midi
+2026-01-16T03:09:12.118512,CNC-01,arret,86.45,Attente validation qualité,L1,OP001,apres-midi
+2026-01-16T05:15:12.118512,CNC-01,normal,17.43,Production normale,L1,OP009,apres-midi
+2026-01-16T16:48:12.118512,PRESS-02,micro_arret,2.01,Vérification qualité rapide,L2,OP009,matin
+2026-01-16T16:51:12.118512,PRESS-02,normal,29.79,Fonctionnement optimal,L2,OP002,matin
+2026-01-16T18:26:12.118512,CNC-01,arret,95.2,Changement outillage complet,L1,OP012,matin
+2026-01-16T18:38:12.118512,PRESS-01,normal,36.41,Cycle standard,L2,OP006,matin
+2026-01-16T18:47:12.118512,CNC-02,normal,18.08,Cycle standard,L1,OP005,matin
+2026-01-16T18:57:12.118512,CNC-01,normal,55.39,Production conforme,L1,OP002,matin
+2026-01-16T20:17:12.118512,PRESS-01,ralentissement,82.4,Cadence réduite usure outil,L2,OP004,matin
+2026-01-16T20:30:12.118512,PRESS-01,normal,43.19,Production normale,L2,OP004,matin
+2026-01-16T22:15:12.118512,ASSEMBLY-01,normal,23.06,Production conforme,L3,OP005,matin
+2026-01-16T22:36:12.118512,CNC-02,arret,95.67,Panne électrique,L1,OP010,matin
+2026-01-16T23:11:12.118512,ASSEMBLY-01,micro_arret,1.03,Capteur position défaillant,L3,OP013,matin
+2026-01-17T02:37:12.118512,ASSEMBLY-01,arret,63.22,Réglage après dérive dimensionnelle,L3,OP010,apres-midi
+2026-01-17T03:39:12.118512,CNC-01,arret,90.68,Panne électrique,L1,OP015,apres-midi
+2026-01-17T05:01:12.118512,CNC-01,normal,26.4,Production normale,L1,OP013,apres-midi
+2026-01-17T05:35:12.118512,ASSEMBLY-01,arret,61.72,Formation nouvel opérateur,L3,OP015,apres-midi
+2026-01-17T08:22:12.118512,CNC-01,micro_arret,2.36,Réglage paramètre machine,L1,OP009,nuit
+2026-01-17T09:13:12.118512,ASSEMBLY-01,normal,40.42,Cycle standard,L3,OP009,nuit
+2026-01-17T16:40:12.118512,ASSEMBLY-01,normal,44.02,Production conforme,L3,OP010,matin
+2026-01-17T17:13:12.118512,CNC-01,normal,34.54,Fonctionnement optimal,L1,OP002,matin
+2026-01-17T17:54:12.118512,CNC-01,normal,47.93,Fonctionnement optimal,L1,OP001,matin
+2026-01-17T18:38:12.118512,CNC-01,normal,43.67,Fonctionnement optimal,L1,OP014,matin
+2026-01-17T18:56:12.118512,CNC-02,normal,31.07,Production normale,L1,OP001,matin
+2026-01-17T20:21:12.118512,ASSEMBLY-01,micro_arret,1.09,Bourrage convoyeur,L3,OP015,matin
+2026-01-17T20:27:12.118512,CNC-01,normal,15.63,Production conforme,L1,OP004,matin
+2026-01-17T22:33:12.118512,PRESS-01,ralentissement,171.37,Température ambiante élevée,L2,OP007,matin
+2026-01-17T22:45:12.118512,CNC-01,normal,57.5,Production normale,L1,OP008,matin
+2026-01-17T23:07:12.118512,CNC-01,normal,57.63,Cycle standard,L1,OP012,matin
+2026-01-18T02:56:12.118512,CNC-01,micro_arret,1.7,Bourrage convoyeur,L1,OP014,apres-midi
+2026-01-18T03:15:12.118512,CNC-01,normal,17.28,Production normale,L1,OP006,apres-midi
+2026-01-18T04:57:12.118512,CNC-01,normal,28.81,Production normale,L1,OP001,apres-midi
+2026-01-18T06:35:12.118512,CNC-02,normal,25.94,Production conforme,L1,OP015,apres-midi
+2026-01-18T06:54:12.118512,CNC-02,ralentissement,61.31,Pression hydraulique faible,L1,OP013,apres-midi
+2026-01-18T17:30:12.118512,CNC-01,normal,24.88,Cycle standard,L1,OP005,matin
+2026-01-18T18:56:12.118512,PRESS-01,normal,59.2,Fonctionnement optimal,L2,OP002,matin
+2026-01-18T19:02:12.118512,CNC-02,arret,88.37,Maintenance corrective,L1,OP008,matin
+2026-01-18T19:18:12.118512,PRESS-01,arret,66.12,Attente validation qualité,L2,OP008,matin
+2026-01-18T19:41:12.118512,ASSEMBLY-01,micro_arret,1.25,Bourrage convoyeur,L3,OP004,matin
+2026-01-18T19:52:12.118512,PRESS-02,normal,37.64,Production normale,L2,OP004,matin
+2026-01-18T20:44:12.118512,CNC-01,normal,26.87,Cycle standard,L1,OP004,matin
+2026-01-18T20:55:12.118512,CNC-01,normal,22.5,Cycle standard,L1,OP015,matin
+2026-01-18T22:01:12.118512,CNC-01,micro_arret,3.66,Changement outil cassé,L1,OP011,matin
+2026-01-18T22:14:12.118512,PRESS-01,normal,15.83,Cycle standard,L2,OP015,matin
+2026-01-18T22:23:12.118512,PRESS-01,normal,46.59,Fonctionnement optimal,L2,OP008,matin
+2026-01-18T22:28:12.118512,CNC-01,normal,15.52,Production normale,L1,OP009,matin
+2026-01-18T22:44:12.118512,CNC-01,normal,34.86,Cycle standard,L1,OP009,matin
+2026-01-19T01:02:12.118512,CNC-01,micro_arret,1.99,Bourrage convoyeur,L1,OP014,apres-midi
+2026-01-19T01:35:12.118512,PRESS-01,normal,54.2,Production conforme,L2,OP010,apres-midi
+2026-01-19T01:52:12.118512,PRESS-02,normal,21.87,Production normale,L2,OP009,apres-midi
+2026-01-19T02:13:12.118512,PRESS-02,normal,36.08,Fonctionnement optimal,L2,OP009,apres-midi
+2026-01-19T03:04:12.118512,PRESS-01,normal,23.12,Production conforme,L2,OP010,apres-midi
+2026-01-19T04:36:12.118512,CNC-02,arret,57.51,Réglage après dérive dimensionnelle,L1,OP008,apres-midi
+2026-01-19T05:02:12.118512,CNC-01,normal,58.58,Production conforme,L1,OP002,apres-midi
+2026-01-19T07:00:12.118512,CNC-01,arret,102.04,Changement de série,L1,OP010,apres-midi
+2026-01-19T08:20:12.118512,CNC-01,normal,51.02,Fonctionnement optimal,L1,OP005,nuit
+2026-01-19T16:45:12.118512,CNC-01,normal,51.3,Cycle standard,L1,OP010,matin
+2026-01-19T17:23:12.118512,PRESS-02,normal,41.68,Production normale,L2,OP013,matin
+2026-01-19T18:02:12.118512,CNC-02,micro_arret,4.67,Capteur position défaillant,L1,OP008,matin
+2026-01-19T19:10:12.118512,ASSEMBLY-01,normal,43.17,Production normale,L3,OP010,matin
+2026-01-19T19:39:12.118512,ASSEMBLY-01,arret,27.01,Attente validation qualité,L3,OP004,matin
+2026-01-19T21:37:12.118512,PRESS-02,normal,20.8,Cycle standard,L2,OP010,matin
+2026-01-19T22:05:12.118512,PRESS-01,normal,16.05,Fonctionnement optimal,L2,OP006,matin
+2026-01-19T23:02:12.118512,ASSEMBLY-01,micro_arret,3.84,Capteur position défaillant,L3,OP015,matin
+2026-01-20T00:30:12.118512,PRESS-01,micro_arret,4.74,Capteur position défaillant,L2,OP013,apres-midi
+2026-01-20T04:07:12.118512,CNC-01,normal,31.89,Production normale,L1,OP010,apres-midi
+2026-01-20T04:55:12.118512,PRESS-02,normal,34.34,Fonctionnement optimal,L2,OP013,apres-midi
+2026-01-20T07:29:12.118512,PRESS-01,normal,47.75,Production normale,L2,OP004,apres-midi
+2026-01-20T08:47:12.118512,CNC-02,normal,21.5,Production conforme,L1,OP013,nuit
+2026-01-20T16:16:12.118512,ASSEMBLY-01,arret,84.32,Attente validation qualité,L3,OP005,matin
+2026-01-20T16:41:12.118512,CNC-01,ralentissement,101.96,Encrassement filtre,L1,OP009,matin
+2026-01-20T17:59:12.118512,CNC-02,normal,41.01,Production conforme,L1,OP015,matin
+2026-01-20T18:03:12.118512,CNC-01,normal,21.82,Production conforme,L1,OP013,matin
+2026-01-20T18:09:12.118512,PRESS-02,micro_arret,3.17,Bourrage convoyeur,L2,OP008,matin
+2026-01-20T18:41:12.118512,CNC-01,micro_arret,1.87,Attente pièce suivante,L1,OP013,matin
+2026-01-20T19:57:12.118512,CNC-01,normal,58.36,Production normale,L1,OP006,matin
+2026-01-20T22:39:12.118512,CNC-01,normal,31.67,Production conforme,L1,OP001,matin
+2026-01-20T23:24:12.118512,CNC-01,arret,72.24,Attente approvisionnement matière,L1,OP014,matin
+2026-01-21T00:25:12.118512,ASSEMBLY-01,normal,43.73,Production normale,L3,OP008,apres-midi
+2026-01-21T01:52:12.118512,CNC-01,normal,54.03,Fonctionnement optimal,L1,OP004,apres-midi
+2026-01-21T02:48:12.118512,PRESS-02,normal,42.34,Fonctionnement optimal,L2,OP011,apres-midi
+2026-01-21T03:00:12.118512,PRESS-01,normal,27.48,Production normale,L2,OP014,apres-midi
+2026-01-21T04:23:12.118512,CNC-01,normal,58.08,Production conforme,L1,OP007,apres-midi
+2026-01-21T06:20:12.118512,ASSEMBLY-01,normal,48.01,Production conforme,L3,OP008,apres-midi
+2026-01-21T07:00:12.118512,CNC-02,normal,37.61,Fonctionnement optimal,L1,OP003,apres-midi
+2026-01-21T17:28:12.118512,CNC-02,arret,114.82,Attente validation qualité,L1,OP012,matin
+2026-01-21T19:08:12.118512,ASSEMBLY-01,normal,46.17,Cycle standard,L3,OP006,matin
+2026-01-21T20:35:12.118512,CNC-01,normal,57.74,Cycle standard,L1,OP013,matin
+2026-01-21T21:16:12.118512,CNC-02,normal,28.07,Production normale,L1,OP004,matin
+2026-01-21T21:41:12.118512,CNC-02,normal,33.47,Production conforme,L1,OP009,matin
+2026-01-21T22:20:12.118512,CNC-01,arret,19.5,Défaillance vérin pneumatique,L1,OP001,matin
+2026-01-21T22:55:12.118512,CNC-01,normal,16.36,Cycle standard,L1,OP001,matin
+2026-01-21T23:04:12.118512,PRESS-01,normal,15.66,Production conforme,L2,OP007,matin
+2026-01-22T00:10:12.118512,CNC-01,normal,54.79,Cycle standard,L1,OP005,matin
+2026-01-22T02:25:12.118512,CNC-01,micro_arret,3.26,Ajustement outil mineur,L1,OP011,apres-midi
+2026-01-22T04:06:12.118512,ASSEMBLY-01,micro_arret,3.61,Capteur position défaillant,L3,OP009,apres-midi
+2026-01-22T05:22:12.118512,CNC-01,normal,49.25,Production normale,L1,OP003,apres-midi
+2026-01-22T08:24:12.118512,CNC-02,micro_arret,3.11,Changement outil cassé,L1,OP008,nuit
+2026-01-22T08:25:12.118512,CNC-01,arret,151.66,Attente validation qualité,L1,OP014,nuit
+2026-01-22T09:11:12.118512,PRESS-02,arret,178.96,Panne électrique,L2,OP004,nuit
+2026-01-22T16:27:12.118512,CNC-01,ralentissement,178.75,Opérateur en formation,L1,OP007,matin
+2026-01-22T16:41:12.118512,ASSEMBLY-01,normal,43.2,Production normale,L3,OP013,matin
+2026-01-22T18:02:12.118512,CNC-02,micro_arret,1.53,Vérification qualité rapide,L1,OP006,matin
+2026-01-22T18:09:12.118512,CNC-01,normal,44.65,Production conforme,L1,OP009,matin
+2026-01-22T18:12:12.118512,CNC-02,micro_arret,4.25,Capteur position défaillant,L1,OP010,matin
+2026-01-22T18:17:12.118512,CNC-01,normal,53.91,Production normale,L1,OP013,matin
+2026-01-22T18:36:12.118512,CNC-01,normal,21.96,Fonctionnement optimal,L1,OP009,matin
+2026-01-22T18:55:12.118512,PRESS-01,normal,25.68,Cycle standard,L2,OP010,matin
+2026-01-22T19:59:12.118512,ASSEMBLY-01,micro_arret,4.92,Réglage paramètre machine,L3,OP001,matin
+2026-01-22T20:45:12.118512,CNC-01,normal,51.17,Cycle standard,L1,OP002,matin
+2026-01-22T22:40:12.118512,CNC-01,normal,38.16,Production conforme,L1,OP011,matin
+2026-01-23T00:00:12.118512,PRESS-01,arret,24.42,Attente approvisionnement matière,L2,OP015,matin
+2026-01-23T00:01:12.118512,PRESS-01,normal,53.54,Cycle standard,L2,OP015,matin
+2026-01-23T02:09:12.118512,PRESS-02,normal,54.92,Cycle standard,L2,OP003,apres-midi
+2026-01-23T02:21:12.118512,PRESS-01,arret,54.82,Maintenance corrective,L2,OP013,apres-midi
+2026-01-23T02:47:12.118512,CNC-01,micro_arret,2.32,Capteur position défaillant,L1,OP005,apres-midi
+2026-01-23T03:09:12.118512,CNC-02,normal,22.89,Production normale,L1,OP009,apres-midi
+2026-01-23T03:23:12.118512,CNC-01,micro_arret,4.87,Changement outil cassé,L1,OP002,apres-midi
+2026-01-23T04:15:12.118512,CNC-01,normal,37.28,Production normale,L1,OP001,apres-midi
+2026-01-23T04:19:12.118512,PRESS-02,normal,56.31,Cycle standard,L2,OP002,apres-midi
+2026-01-23T16:54:12.118512,CNC-01,micro_arret,4.19,Ajustement outil mineur,L1,OP005,matin
+2026-01-23T18:54:12.118512,ASSEMBLY-01,micro_arret,3.36,Bourrage convoyeur,L3,OP010,matin
+2026-01-23T19:03:12.118512,PRESS-01,normal,30.96,Production normale,L2,OP013,matin
+2026-01-23T20:44:12.118512,CNC-01,normal,35.18,Fonctionnement optimal,L1,OP007,matin
+2026-01-23T20:49:12.118512,CNC-01,normal,39.21,Production conforme,L1,OP006,matin
+2026-01-23T22:11:12.118512,ASSEMBLY-01,normal,24.88,Cycle standard,L3,OP014,matin
+2026-01-23T22:29:12.118512,CNC-01,arret,48.51,Changement de série,L1,OP009,matin
+2026-01-23T23:42:12.118512,CNC-01,normal,25.02,Cycle standard,L1,OP001,matin
+2026-01-24T00:16:12.118512,CNC-01,normal,59.79,Cycle standard,L1,OP003,apres-midi
+2026-01-24T01:37:12.118512,PRESS-02,normal,45.46,Production conforme,L2,OP011,apres-midi
+2026-01-24T01:43:12.118512,CNC-02,normal,36.49,Production normale,L1,OP009,apres-midi
+2026-01-24T03:11:12.118512,ASSEMBLY-01,micro_arret,1.01,Nettoyage zone de travail,L3,OP009,apres-midi
+2026-01-24T03:22:12.118512,PRESS-01,normal,33.45,Fonctionnement optimal,L2,OP009,apres-midi
+2026-01-24T04:13:12.118512,CNC-02,normal,51.45,Production normale,L1,OP004,apres-midi
+2026-01-24T04:27:12.118512,PRESS-02,normal,40.92,Production normale,L2,OP009,apres-midi
+2026-01-24T04:45:12.118512,PRESS-01,normal,54.47,Cycle standard,L2,OP011,apres-midi
+2026-01-24T05:01:12.118512,CNC-01,normal,59.61,Production conforme,L1,OP009,apres-midi
+2026-01-24T05:54:12.118512,CNC-01,micro_arret,2.5,Changement outil cassé,L1,OP003,apres-midi
+2026-01-24T06:46:12.118512,PRESS-02,micro_arret,2.47,Ajustement outil mineur,L2,OP014,apres-midi
+2026-01-24T07:23:12.118512,PRESS-02,normal,27.23,Production conforme,L2,OP003,apres-midi
+2026-01-24T07:45:12.118512,PRESS-01,micro_arret,1.33,Ajustement outil mineur,L2,OP003,apres-midi
+2026-01-24T08:35:12.118512,CNC-01,normal,26.26,Production normale,L1,OP008,nuit
+2026-01-24T17:03:12.118512,CNC-02,arret,32.26,Changement de série,L1,OP008,matin
+2026-01-24T18:09:12.118512,PRESS-02,normal,42.67,Production normale,L2,OP011,matin
+2026-01-24T19:27:12.118512,CNC-01,normal,33.62,Production normale,L1,OP009,matin
+2026-01-24T19:54:12.118512,PRESS-01,micro_arret,2.95,Changement outil cassé,L2,OP015,matin
+2026-01-24T20:12:12.118512,CNC-01,normal,31.71,Production normale,L1,OP013,matin
+2026-01-24T21:03:12.118512,ASSEMBLY-01,normal,29.54,Production conforme,L3,OP013,matin
+2026-01-24T21:04:12.118512,CNC-01,micro_arret,2.81,Ajustement outil mineur,L1,OP013,matin
+2026-01-24T22:04:12.118512,ASSEMBLY-01,micro_arret,4.22,Attente pièce suivante,L3,OP010,matin
+2026-01-24T23:55:12.118512,PRESS-01,normal,58.4,Fonctionnement optimal,L2,OP003,matin
+2026-01-25T01:30:12.118512,CNC-01,micro_arret,4.98,Capteur position défaillant,L1,OP003,apres-midi
+2026-01-25T01:55:12.118512,CNC-02,ralentissement,156.26,Cadence réduite usure outil,L1,OP006,apres-midi
+2026-01-25T07:23:12.118512,CNC-01,normal,16.48,Cycle standard,L1,OP008,apres-midi
+2026-01-25T08:19:12.118512,PRESS-01,normal,42.0,Production conforme,L2,OP013,nuit
+2026-01-25T08:50:12.118512,CNC-01,normal,42.3,Fonctionnement optimal,L1,OP015,nuit
+2026-01-25T09:09:12.118512,CNC-01,normal,39.62,Production conforme,L1,OP014,nuit
+2026-01-25T16:45:12.118512,ASSEMBLY-01,normal,26.46,Cycle standard,L3,OP008,matin
+2026-01-25T18:56:12.118512,PRESS-02,arret,80.03,Attente validation qualité,L2,OP004,matin
+2026-01-25T18:59:12.118512,PRESS-02,normal,58.48,Production normale,L2,OP006,matin
+2026-01-25T19:25:12.118512,PRESS-01,arret,22.29,Attente approvisionnement matière,L2,OP013,matin
+2026-01-25T20:19:12.118512,CNC-01,arret,82.94,Réglage après dérive dimensionnelle,L1,OP013,matin
+2026-01-25T23:23:12.118512,CNC-01,normal,46.18,Production normale,L1,OP001,matin
+2026-01-25T23:26:12.118512,CNC-01,normal,34.41,Production normale,L1,OP002,matin
+2026-01-25T23:38:12.118512,CNC-01,ralentissement,62.2,Encrassement filtre,L1,OP015,matin
+2026-01-25T23:50:12.118512,CNC-02,micro_arret,4.25,Nettoyage zone de travail,L1,OP003,matin
+2026-01-26T00:47:12.118512,CNC-01,micro_arret,2.26,Nettoyage zone de travail,L1,OP001,apres-midi
+2026-01-26T05:58:12.118512,CNC-01,normal,34.48,Fonctionnement optimal,L1,OP005,apres-midi
+2026-01-26T06:46:12.118512,PRESS-01,normal,43.65,Production normale,L2,OP015,apres-midi
+2026-01-26T07:18:12.118512,CNC-02,micro_arret,4.21,Capteur position défaillant,L1,OP015,apres-midi
+2026-01-26T07:44:12.118512,CNC-02,normal,51.96,Production normale,L1,OP011,apres-midi
+2026-01-26T16:39:12.118512,ASSEMBLY-01,normal,49.69,Production conforme,L3,OP008,matin
+2026-01-26T18:26:12.118512,PRESS-01,normal,43.28,Cycle standard,L2,OP011,matin
+2026-01-26T18:40:12.118512,ASSEMBLY-01,normal,17.07,Production conforme,L3,OP012,matin
+2026-01-26T20:04:12.118512,CNC-02,normal,30.6,Production normale,L1,OP008,matin
+2026-01-26T20:13:12.118512,CNC-01,normal,20.83,Production conforme,L1,OP015,matin
+2026-01-26T20:16:12.118512,CNC-01,normal,25.72,Cycle standard,L1,OP004,matin
+2026-01-26T20:29:12.118512,CNC-01,normal,22.67,Cycle standard,L1,OP006,matin
+2026-01-26T20:42:12.118512,CNC-01,normal,59.27,Cycle standard,L1,OP013,matin
+2026-01-26T20:44:12.118512,CNC-01,micro_arret,2.51,Attente pièce suivante,L1,OP013,matin
+2026-01-26T23:34:12.118512,CNC-02,normal,33.28,Production conforme,L1,OP002,matin
+2026-01-27T00:05:12.118512,CNC-01,normal,17.05,Cycle standard,L1,OP010,matin
+2026-01-27T00:17:12.118512,CNC-01,micro_arret,3.21,Changement outil cassé,L1,OP002,apres-midi
+2026-01-27T00:30:12.118512,ASSEMBLY-01,micro_arret,2.45,Capteur position défaillant,L3,OP007,apres-midi
+2026-01-27T01:28:12.118512,CNC-01,normal,48.77,Cycle standard,L1,OP014,apres-midi
+2026-01-27T01:33:12.118512,CNC-01,normal,30.49,Cycle standard,L1,OP004,apres-midi
+2026-01-27T02:04:12.118512,CNC-02,normal,29.02,Fonctionnement optimal,L1,OP008,apres-midi
+2026-01-27T05:11:12.118512,CNC-01,normal,17.55,Production normale,L1,OP015,apres-midi
+2026-01-27T05:45:12.118512,ASSEMBLY-01,normal,40.43,Fonctionnement optimal,L3,OP012,apres-midi
+2026-01-27T07:37:12.118512,CNC-01,normal,48.06,Cycle standard,L1,OP007,apres-midi
+2026-01-27T08:39:12.118512,PRESS-02,arret,116.1,Problème logiciel automate,L2,OP006,nuit
+2026-01-27T16:49:12.118512,CNC-01,normal,49.32,Cycle standard,L1,OP008,matin
+2026-01-27T18:29:12.118512,PRESS-02,normal,34.74,Production normale,L2,OP011,matin
+2026-01-27T20:34:12.118512,CNC-02,micro_arret,1.09,Attente pièce suivante,L1,OP011,matin
+2026-01-27T20:44:12.118512,CNC-01,micro_arret,2.75,Ajustement outil mineur,L1,OP010,matin
+2026-01-27T21:16:12.118512,PRESS-02,normal,30.96,Production normale,L2,OP005,matin
+2026-01-27T21:18:12.118512,CNC-01,normal,36.06,Production conforme,L1,OP012,matin
+2026-01-27T22:00:12.118512,ASSEMBLY-01,normal,54.01,Production normale,L3,OP007,matin
+2026-01-27T22:47:12.118512,PRESS-01,micro_arret,2.72,Bourrage convoyeur,L2,OP012,matin
+2026-01-27T22:56:12.118512,ASSEMBLY-01,micro_arret,1.57,Réglage paramètre machine,L3,OP003,matin
+2026-01-27T23:08:12.118512,PRESS-02,micro_arret,4.83,Attente pièce suivante,L2,OP008,matin
+2026-01-27T23:24:12.118512,CNC-01,normal,55.27,Production normale,L1,OP010,matin
+2026-01-28T00:03:12.118512,CNC-01,normal,23.08,Production conforme,L1,OP002,matin
+2026-01-28T00:29:12.118512,CNC-01,micro_arret,3.92,Réglage paramètre machine,L1,OP009,apres-midi
+2026-01-28T01:31:12.118512,CNC-01,normal,39.15,Cycle standard,L1,OP002,apres-midi
+2026-01-28T02:07:12.118512,CNC-01,normal,26.09,Fonctionnement optimal,L1,OP013,apres-midi
+2026-01-28T02:29:12.118512,CNC-02,normal,28.59,Production normale,L1,OP008,apres-midi
+2026-01-28T02:45:12.118512,PRESS-02,arret,109.71,Formation nouvel opérateur,L2,OP003,apres-midi
+2026-01-28T02:51:12.118512,CNC-02,micro_arret,4.82,Ajustement outil mineur,L1,OP013,apres-midi
+2026-01-28T03:56:12.118512,CNC-01,arret,59.74,Attente validation qualité,L1,OP015,apres-midi
+2026-01-28T04:28:12.118512,CNC-01,normal,25.81,Production conforme,L1,OP014,apres-midi
+2026-01-28T05:25:12.118512,CNC-01,ralentissement,53.97,Température ambiante élevée,L1,OP002,apres-midi
+2026-01-28T06:02:12.118512,ASSEMBLY-01,ralentissement,132.04,Refroidissement insuffisant,L3,OP005,apres-midi
+2026-01-28T07:47:12.118512,ASSEMBLY-01,normal,54.92,Production normale,L3,OP008,apres-midi
+2026-01-28T17:11:12.118512,CNC-01,micro_arret,3.65,Changement outil cassé,L1,OP008,matin
+2026-01-28T17:55:12.118512,CNC-02,normal,39.93,Fonctionnement optimal,L1,OP013,matin
+2026-01-28T17:59:12.118512,CNC-01,normal,17.29,Fonctionnement optimal,L1,OP004,matin
+2026-01-28T18:16:12.118512,ASSEMBLY-01,normal,16.68,Production normale,L3,OP003,matin
+2026-01-28T18:46:12.118512,CNC-01,normal,24.78,Cycle standard,L1,OP005,matin
+2026-01-28T19:24:12.118512,CNC-02,micro_arret,4.74,Capteur position défaillant,L1,OP014,matin
+2026-01-28T22:10:12.118512,CNC-01,normal,35.34,Fonctionnement optimal,L1,OP012,matin
+2026-01-28T22:35:12.118512,PRESS-01,normal,16.44,Production conforme,L2,OP002,matin
+2026-01-28T22:53:12.118512,CNC-01,micro_arret,4.86,Attente pièce suivante,L1,OP009,matin
+2026-01-28T23:27:12.118512,CNC-02,micro_arret,4.72,Réglage paramètre machine,L1,OP013,matin
+2026-01-29T02:54:12.118512,CNC-01,normal,34.27,Cycle standard,L1,OP013,apres-midi
+2026-01-29T03:26:12.118512,CNC-01,normal,24.86,Cycle standard,L1,OP005,apres-midi
+2026-01-29T03:32:12.118512,CNC-01,normal,51.8,Cycle standard,L1,OP006,apres-midi
+2026-01-29T04:04:12.118512,PRESS-02,normal,51.85,Fonctionnement optimal,L2,OP006,apres-midi
+2026-01-29T04:30:12.118512,PRESS-01,ralentissement,55.27,Opérateur en formation,L2,OP004,apres-midi
+2026-01-29T06:04:12.118512,CNC-02,normal,18.84,Production normale,L1,OP014,apres-midi
+2026-01-29T06:21:12.118512,PRESS-02,ralentissement,157.61,Cadence réduite usure outil,L2,OP013,apres-midi
+2026-01-29T08:27:12.118512,PRESS-01,normal,45.26,Production conforme,L2,OP003,nuit
+2026-01-29T16:30:12.118512,CNC-01,arret,69.19,Problème logiciel automate,L1,OP008,matin
+2026-01-29T17:05:12.118512,PRESS-02,normal,58.37,Production conforme,L2,OP001,matin
+2026-01-29T17:06:12.118512,CNC-01,normal,30.91,Production conforme,L1,OP015,matin
+2026-01-29T17:14:12.118512,CNC-02,normal,49.72,Cycle standard,L1,OP008,matin
+2026-01-29T18:35:12.118512,ASSEMBLY-01,normal,52.08,Production conforme,L3,OP007,matin
+2026-01-29T19:30:12.118512,CNC-01,micro_arret,2.53,Vérification qualité rapide,L1,OP006,matin
+2026-01-29T20:57:12.118512,CNC-01,normal,56.34,Fonctionnement optimal,L1,OP012,matin
+2026-01-29T21:07:12.118512,PRESS-02,normal,36.64,Production conforme,L2,OP001,matin
+2026-01-29T21:28:12.118512,CNC-01,normal,26.62,Cycle standard,L1,OP009,matin
+2026-01-29T22:34:12.118512,PRESS-01,normal,59.71,Fonctionnement optimal,L2,OP003,matin
+2026-01-29T22:56:12.118512,CNC-02,normal,35.66,Production normale,L1,OP012,matin
+2026-01-29T23:24:12.118512,CNC-01,normal,34.58,Cycle standard,L1,OP014,matin
+2026-01-30T01:03:12.118512,PRESS-01,normal,22.14,Production normale,L2,OP010,apres-midi
+2026-01-30T01:06:12.118512,CNC-02,arret,115.36,Problème logiciel automate,L1,OP010,apres-midi
+2026-01-30T02:27:12.118512,PRESS-02,arret,30.88,Panne électrique,L2,OP014,apres-midi
+2026-01-30T02:59:12.118512,PRESS-02,micro_arret,4.39,Ajustement outil mineur,L2,OP006,apres-midi
+2026-01-30T03:31:12.118512,CNC-01,normal,57.56,Production conforme,L1,OP002,apres-midi
+2026-01-30T03:47:12.118512,CNC-02,normal,42.01,Production conforme,L1,OP011,apres-midi
+2026-01-30T06:10:12.118512,CNC-01,arret,89.82,Défaillance vérin pneumatique,L1,OP014,apres-midi
+2026-01-30T09:09:12.118512,CNC-01,arret,16.98,Formation nouvel opérateur,L1,OP002,nuit
+2026-01-30T17:52:12.118512,CNC-01,normal,37.82,Fonctionnement optimal,L1,OP015,matin
+2026-01-30T18:48:12.118512,CNC-02,normal,49.63,Production normale,L1,OP003,matin
+2026-01-30T19:26:12.118512,CNC-01,normal,40.82,Production conforme,L1,OP001,matin
+2026-01-30T20:05:12.118512,PRESS-02,normal,34.33,Production normale,L2,OP008,matin
+2026-01-30T20:48:12.118512,ASSEMBLY-01,normal,49.8,Production conforme,L3,OP005,matin
+2026-01-30T20:50:12.118512,ASSEMBLY-01,normal,24.7,Production normale,L3,OP001,matin
+2026-01-30T22:06:12.118512,CNC-01,normal,32.35,Fonctionnement optimal,L1,OP008,matin
+2026-01-30T23:06:12.118512,CNC-01,normal,32.59,Cycle standard,L1,OP011,matin
+2026-01-31T00:22:12.118512,ASSEMBLY-01,normal,57.39,Fonctionnement optimal,L3,OP010,apres-midi
+2026-01-31T00:31:12.118512,ASSEMBLY-01,normal,57.57,Production conforme,L3,OP003,apres-midi
+2026-01-31T02:08:12.118512,CNC-01,normal,40.63,Fonctionnement optimal,L1,OP012,apres-midi
+2026-01-31T02:55:12.118512,ASSEMBLY-01,normal,48.92,Fonctionnement optimal,L3,OP012,apres-midi
+2026-01-31T03:51:12.118512,CNC-01,normal,37.87,Production conforme,L1,OP011,apres-midi
+2026-01-31T04:24:12.118512,PRESS-02,normal,35.17,Fonctionnement optimal,L2,OP009,apres-midi
+2026-01-31T05:15:12.118512,CNC-01,normal,16.32,Production conforme,L1,OP014,apres-midi
+2026-01-31T05:43:12.118512,CNC-01,normal,31.88,Production conforme,L1,OP011,apres-midi
+2026-01-31T18:50:12.118512,ASSEMBLY-01,normal,55.27,Production normale,L3,OP011,matin
+2026-01-31T21:18:12.118512,PRESS-01,normal,46.14,Production normale,L2,OP010,matin
+2026-01-31T22:25:12.118512,CNC-01,normal,59.88,Fonctionnement optimal,L1,OP008,matin
+2026-01-31T22:28:12.118512,CNC-01,micro_arret,3.65,Nettoyage zone de travail,L1,OP013,matin
+2026-02-01T03:52:12.118512,CNC-01,arret,32.08,Maintenance corrective,L1,OP008,apres-midi
+2026-02-01T04:28:12.118512,CNC-01,normal,58.95,Production normale,L1,OP003,apres-midi
+2026-02-01T04:38:12.118512,CNC-01,normal,26.27,Production conforme,L1,OP014,apres-midi
+2026-02-01T05:49:12.118512,CNC-01,normal,19.28,Production conforme,L1,OP014,apres-midi
+2026-02-01T05:54:12.118512,CNC-01,normal,44.49,Production normale,L1,OP012,apres-midi
+2026-02-01T05:55:12.118512,CNC-01,normal,36.05,Production normale,L1,OP011,apres-midi
+2026-02-01T08:00:12.118512,PRESS-01,normal,59.97,Production normale,L2,OP008,apres-midi
+2026-02-01T08:03:12.118512,CNC-02,normal,58.48,Cycle standard,L1,OP005,apres-midi
+2026-02-01T08:13:12.118512,PRESS-02,micro_arret,1.44,Vérification qualité rapide,L2,OP008,apres-midi
+2026-02-01T08:59:12.118512,PRESS-02,ralentissement,78.32,Température ambiante élevée,L2,OP004,nuit
+2026-02-01T18:19:12.118512,CNC-01,normal,18.37,Production normale,L1,OP002,matin
+2026-02-01T19:00:12.118512,PRESS-01,normal,46.24,Production conforme,L2,OP011,matin
+2026-02-01T20:06:12.118512,PRESS-01,normal,47.42,Production normale,L2,OP004,matin
+2026-02-01T21:27:12.118512,CNC-01,arret,8.57,Réglage après dérive dimensionnelle,L1,OP012,matin
+2026-02-01T22:10:12.118512,ASSEMBLY-01,normal,56.95,Fonctionnement optimal,L3,OP003,matin
+2026-02-02T01:50:12.118512,CNC-01,normal,53.05,Production conforme,L1,OP015,apres-midi
+2026-02-02T03:04:12.118512,CNC-01,normal,39.09,Cycle standard,L1,OP011,apres-midi
+2026-02-02T03:16:12.118512,CNC-01,normal,55.88,Fonctionnement optimal,L1,OP008,apres-midi
+2026-02-02T04:41:12.118512,CNC-01,normal,46.95,Production normale,L1,OP007,apres-midi
+2026-02-02T05:00:12.118512,CNC-01,normal,17.17,Cycle standard,L1,OP013,apres-midi
+2026-02-02T05:49:12.118512,ASSEMBLY-01,normal,57.78,Fonctionnement optimal,L3,OP002,apres-midi
+2026-02-02T08:08:12.118512,PRESS-02,normal,28.63,Production conforme,L2,OP014,apres-midi
+2026-02-02T08:57:12.118512,PRESS-02,normal,36.45,Cycle standard,L2,OP004,nuit
+2026-02-02T17:12:12.118512,CNC-01,normal,24.56,Production conforme,L1,OP007,matin
+2026-02-02T18:09:12.118512,ASSEMBLY-01,micro_arret,2.65,Capteur position défaillant,L3,OP006,matin
+2026-02-02T19:47:12.118512,PRESS-02,arret,91.85,Attente approvisionnement matière,L2,OP004,matin
+2026-02-02T20:17:12.118512,PRESS-02,normal,28.58,Production normale,L2,OP014,matin
+2026-02-02T21:51:12.118512,CNC-01,normal,24.99,Production conforme,L1,OP004,matin
+2026-02-02T21:53:12.118512,ASSEMBLY-01,normal,53.83,Cycle standard,L3,OP003,matin
+2026-02-02T23:02:12.118512,CNC-01,normal,59.26,Production conforme,L1,OP002,matin
+2026-02-03T00:46:12.118512,PRESS-02,normal,26.26,Production normale,L2,OP013,apres-midi
+2026-02-03T01:43:12.118512,PRESS-01,arret,78.84,Attente approvisionnement matière,L2,OP001,apres-midi
+2026-02-03T02:06:12.118512,CNC-01,normal,35.66,Fonctionnement optimal,L1,OP011,apres-midi
+2026-02-03T02:06:12.118512,ASSEMBLY-01,arret,99.74,Défaillance vérin pneumatique,L3,OP001,apres-midi
+2026-02-03T02:12:12.118512,PRESS-02,micro_arret,3.43,Ajustement outil mineur,L2,OP003,apres-midi
+2026-02-03T02:20:12.118512,CNC-01,normal,50.98,Production conforme,L1,OP015,apres-midi
+2026-02-03T03:08:12.118512,ASSEMBLY-01,normal,35.84,Fonctionnement optimal,L3,OP014,apres-midi
+2026-02-03T03:10:12.118512,CNC-01,normal,29.43,Fonctionnement optimal,L1,OP005,apres-midi
+2026-02-03T05:35:12.118512,CNC-01,arret,111.69,Problème logiciel automate,L1,OP005,apres-midi
+2026-02-03T07:04:12.118512,PRESS-02,normal,44.12,Cycle standard,L2,OP005,apres-midi
+2026-02-03T07:12:12.118512,PRESS-02,normal,58.9,Fonctionnement optimal,L2,OP003,apres-midi
+2026-02-03T16:19:12.118512,CNC-01,arret,50.96,Changement outillage complet,L1,OP003,matin
+2026-02-03T16:40:12.118512,CNC-02,arret,67.68,Attente approvisionnement matière,L1,OP008,matin
+2026-02-03T18:08:12.118512,PRESS-01,normal,54.99,Production normale,L2,OP014,matin
+2026-02-03T18:27:12.118512,PRESS-01,micro_arret,3.18,Bourrage convoyeur,L2,OP005,matin
+2026-02-03T18:37:12.118512,CNC-01,normal,23.16,Production conforme,L1,OP015,matin
+2026-02-03T18:59:12.118512,CNC-01,normal,18.02,Fonctionnement optimal,L1,OP002,matin
+2026-02-03T19:25:12.118512,CNC-02,normal,52.15,Fonctionnement optimal,L1,OP003,matin
+2026-02-03T19:40:12.118512,PRESS-01,normal,46.57,Cycle standard,L2,OP013,matin
+2026-02-03T22:28:12.118512,PRESS-02,normal,29.97,Production conforme,L2,OP013,matin
+2026-02-03T22:48:12.118512,PRESS-02,ralentissement,40.45,Matière première non conforme,L2,OP014,matin
+2026-02-04T00:18:12.118512,CNC-01,micro_arret,1.55,Nettoyage zone de travail,L1,OP014,apres-midi
+2026-02-04T00:47:12.118512,CNC-01,normal,54.86,Cycle standard,L1,OP005,apres-midi
+2026-02-04T04:12:12.118512,ASSEMBLY-01,micro_arret,4.4,Réglage paramètre machine,L3,OP010,apres-midi
+2026-02-04T04:26:12.118512,CNC-01,normal,45.98,Fonctionnement optimal,L1,OP008,apres-midi
+2026-02-04T04:55:12.118512,CNC-01,arret,30.91,Défaillance vérin pneumatique,L1,OP001,apres-midi
+2026-02-04T05:17:12.118512,CNC-01,normal,37.84,Production normale,L1,OP010,apres-midi
+2026-02-04T05:30:12.118512,CNC-01,normal,21.77,Fonctionnement optimal,L1,OP011,apres-midi
+2026-02-04T06:08:12.118512,ASSEMBLY-01,arret,103.18,Réglage après dérive dimensionnelle,L3,OP012,apres-midi
+2026-02-04T06:52:12.118512,ASSEMBLY-01,normal,44.86,Production conforme,L3,OP006,apres-midi
+2026-02-04T06:55:12.118512,ASSEMBLY-01,normal,26.18,Fonctionnement optimal,L3,OP010,apres-midi
+2026-02-04T08:06:12.118512,ASSEMBLY-01,normal,51.99,Cycle standard,L3,OP010,apres-midi
+2026-02-04T19:42:12.118512,PRESS-01,normal,29.38,Cycle standard,L2,OP014,matin
+2026-02-04T20:33:12.118512,ASSEMBLY-01,normal,54.68,Fonctionnement optimal,L3,OP008,matin
+2026-02-04T22:31:12.118512,CNC-01,normal,26.56,Production conforme,L1,OP004,matin
+2026-02-05T01:23:12.118512,CNC-01,micro_arret,1.55,Nettoyage zone de travail,L1,OP011,apres-midi
+2026-02-05T01:27:12.118512,PRESS-01,normal,48.25,Fonctionnement optimal,L2,OP001,apres-midi
+2026-02-05T02:04:12.118512,CNC-01,normal,59.28,Production conforme,L1,OP009,apres-midi
+2026-02-05T02:13:12.118512,CNC-01,normal,32.55,Production normale,L1,OP005,apres-midi
+2026-02-05T02:28:12.118512,CNC-01,normal,43.98,Cycle standard,L1,OP007,apres-midi
+2026-02-05T03:19:12.118512,CNC-01,normal,22.23,Production conforme,L1,OP009,apres-midi
+2026-02-05T07:51:12.118512,CNC-01,arret,87.4,Panne électrique,L1,OP012,apres-midi
+2026-02-05T08:19:12.118512,CNC-02,normal,16.34,Fonctionnement optimal,L1,OP012,nuit
+2026-02-05T16:31:12.118512,PRESS-02,normal,39.93,Cycle standard,L2,OP004,matin
+2026-02-05T17:01:12.118512,CNC-02,normal,32.19,Production normale,L1,OP001,matin
+2026-02-05T18:30:12.118512,CNC-02,normal,39.84,Production conforme,L1,OP010,matin
+2026-02-05T18:48:12.118512,CNC-01,arret,58.21,Changement outillage complet,L1,OP012,matin
+2026-02-05T22:19:12.118512,ASSEMBLY-01,arret,14.91,Attente validation qualité,L3,OP006,matin
+2026-02-05T22:27:12.118512,CNC-02,normal,15.34,Cycle standard,L1,OP005,matin
+2026-02-05T23:28:12.118512,CNC-02,normal,38.8,Production conforme,L1,OP008,matin
+2026-02-06T01:34:12.118512,CNC-02,normal,33.18,Production conforme,L1,OP001,apres-midi
+2026-02-06T02:13:12.118512,CNC-01,micro_arret,1.1,Réglage paramètre machine,L1,OP003,apres-midi
+2026-02-06T04:01:12.118512,CNC-01,arret,36.72,Problème logiciel automate,L1,OP015,apres-midi
+2026-02-06T05:01:12.118512,PRESS-01,normal,17.15,Production normale,L2,OP010,apres-midi
+2026-02-06T08:11:12.118512,CNC-02,micro_arret,4.62,Attente pièce suivante,L1,OP015,apres-midi
+2026-02-06T09:01:12.118512,CNC-01,normal,26.72,Cycle standard,L1,OP008,nuit
+2026-02-06T16:27:12.118512,ASSEMBLY-01,normal,25.68,Production conforme,L3,OP015,matin
+2026-02-06T16:38:12.118512,CNC-01,normal,27.87,Production conforme,L1,OP004,matin
+2026-02-06T19:54:12.118512,CNC-01,micro_arret,1.56,Vérification qualité rapide,L1,OP008,matin
+2026-02-06T19:56:12.118512,ASSEMBLY-01,ralentissement,93.5,Cadence réduite usure outil,L3,OP005,matin
+2026-02-06T20:10:12.118512,ASSEMBLY-01,normal,35.82,Fonctionnement optimal,L3,OP013,matin
+2026-02-06T22:37:12.118512,ASSEMBLY-01,normal,59.13,Production conforme,L3,OP005,matin
+2026-02-06T23:19:12.118512,CNC-02,normal,59.24,Fonctionnement optimal,L1,OP015,matin
+2026-02-07T00:47:12.118512,CNC-01,arret,18.68,Défaillance vérin pneumatique,L1,OP003,apres-midi
+2026-02-07T00:58:12.118512,ASSEMBLY-01,normal,31.0,Fonctionnement optimal,L3,OP005,apres-midi
+2026-02-07T01:39:12.118512,CNC-01,normal,43.22,Production conforme,L1,OP007,apres-midi
+2026-02-07T01:49:12.118512,PRESS-02,ralentissement,114.59,Matière première non conforme,L2,OP013,apres-midi
+2026-02-07T02:28:12.118512,CNC-02,normal,56.27,Cycle standard,L1,OP013,apres-midi
+2026-02-07T05:38:12.118512,PRESS-02,normal,50.19,Cycle standard,L2,OP008,apres-midi
+2026-02-07T06:27:12.118512,ASSEMBLY-01,normal,25.06,Production conforme,L3,OP001,apres-midi
+2026-02-07T06:31:12.118512,CNC-01,micro_arret,2.98,Attente pièce suivante,L1,OP012,apres-midi
+2026-02-07T16:44:12.118512,CNC-01,normal,57.67,Fonctionnement optimal,L1,OP005,matin
+2026-02-07T17:01:12.118512,CNC-01,normal,22.53,Production conforme,L1,OP008,matin
+2026-02-07T17:31:12.118512,PRESS-02,normal,23.97,Production conforme,L2,OP015,matin
+2026-02-07T17:41:12.118512,ASSEMBLY-01,ralentissement,131.94,Opérateur en formation,L3,OP013,matin
+2026-02-07T18:58:12.118512,CNC-02,normal,51.99,Production normale,L1,OP005,matin
+2026-02-07T19:07:12.118512,CNC-01,arret,99.81,Problème logiciel automate,L1,OP012,matin
+2026-02-07T19:41:12.118512,CNC-01,normal,37.93,Fonctionnement optimal,L1,OP005,matin
+2026-02-07T20:36:12.118512,CNC-01,micro_arret,1.61,Capteur position défaillant,L1,OP008,matin
+2026-02-07T20:39:12.118512,PRESS-02,normal,58.22,Production conforme,L2,OP005,matin
+2026-02-07T20:47:12.118512,PRESS-02,normal,19.74,Production normale,L2,OP006,matin
+2026-02-07T23:05:12.118512,CNC-01,normal,27.48,Cycle standard,L1,OP008,matin
+2026-02-08T00:29:12.118512,CNC-01,normal,58.29,Cycle standard,L1,OP011,apres-midi
+2026-02-08T02:26:12.118512,CNC-01,normal,22.02,Production conforme,L1,OP013,apres-midi
+2026-02-08T02:37:12.118512,CNC-01,normal,31.17,Cycle standard,L1,OP003,apres-midi
+2026-02-08T04:24:12.118512,CNC-02,normal,53.4,Fonctionnement optimal,L1,OP014,apres-midi
+2026-02-08T06:46:12.118512,CNC-01,normal,45.56,Fonctionnement optimal,L1,OP003,apres-midi
+2026-02-08T06:54:12.118512,PRESS-02,normal,40.82,Cycle standard,L2,OP014,apres-midi
+2026-02-08T07:35:12.118512,CNC-02,normal,40.27,Cycle standard,L1,OP002,apres-midi
+2026-02-08T17:23:12.118512,CNC-01,micro_arret,3.83,Changement outil cassé,L1,OP011,matin
+2026-02-08T17:48:12.118512,PRESS-01,normal,57.41,Fonctionnement optimal,L2,OP011,matin
+2026-02-08T18:08:12.118512,CNC-02,normal,48.28,Fonctionnement optimal,L1,OP008,matin
+2026-02-08T18:58:12.118512,PRESS-01,arret,116.34,Réglage après dérive dimensionnelle,L2,OP014,matin
+2026-02-08T20:01:12.118512,PRESS-01,micro_arret,3.22,Ajustement outil mineur,L2,OP011,matin
+2026-02-08T20:57:12.118512,PRESS-02,normal,57.3,Fonctionnement optimal,L2,OP015,matin
+2026-02-08T21:18:12.118512,PRESS-02,normal,59.91,Cycle standard,L2,OP013,matin
+2026-02-08T21:42:12.118512,ASSEMBLY-01,normal,47.0,Cycle standard,L3,OP003,matin
+2026-02-08T23:44:12.118512,PRESS-01,normal,39.03,Production conforme,L2,OP009,matin
+2026-02-09T02:17:12.118512,CNC-01,normal,51.15,Production conforme,L1,OP013,apres-midi
+2026-02-09T04:00:12.118512,CNC-02,normal,35.45,Production conforme,L1,OP010,apres-midi
+2026-02-09T05:08:12.118512,CNC-01,micro_arret,2.77,Attente pièce suivante,L1,OP001,apres-midi
+2026-02-09T05:45:12.118512,PRESS-02,normal,21.04,Fonctionnement optimal,L2,OP011,apres-midi
+2026-02-09T05:59:12.118512,CNC-01,micro_arret,2.5,Réglage paramètre machine,L1,OP011,apres-midi
+2026-02-09T06:49:12.118512,CNC-01,normal,20.15,Fonctionnement optimal,L1,OP010,apres-midi
+2026-02-09T07:31:12.118512,PRESS-01,normal,58.91,Fonctionnement optimal,L2,OP010,apres-midi
+2026-02-09T08:08:12.118512,CNC-01,normal,46.73,Production normale,L1,OP011,apres-midi
+2026-02-09T08:45:12.118512,CNC-01,normal,49.82,Production normale,L1,OP008,nuit
+2026-02-09T08:57:12.118512,ASSEMBLY-01,normal,27.07,Production normale,L3,OP010,nuit
+2026-02-09T09:03:12.118512,CNC-02,normal,17.86,Cycle standard,L1,OP004,nuit
+2026-02-09T17:40:12.118512,CNC-01,normal,36.81,Cycle standard,L1,OP001,matin
+2026-02-09T18:08:12.118512,CNC-01,normal,42.85,Production normale,L1,OP007,matin
+2026-02-09T19:27:12.118512,CNC-01,normal,22.34,Cycle standard,L1,OP009,matin
+2026-02-09T22:13:12.118512,CNC-02,normal,44.67,Production normale,L1,OP012,matin
+2026-02-09T22:59:12.118512,CNC-01,normal,23.78,Cycle standard,L1,OP015,matin
+2026-02-09T23:22:12.118512,CNC-01,normal,56.33,Fonctionnement optimal,L1,OP005,matin
+2026-02-09T23:37:12.118512,CNC-01,normal,31.74,Production normale,L1,OP003,matin
+2026-02-10T00:01:12.118512,PRESS-02,normal,54.21,Production normale,L2,OP004,matin
+2026-02-10T02:57:12.118512,ASSEMBLY-01,normal,17.72,Fonctionnement optimal,L3,OP008,apres-midi
+2026-02-10T03:01:12.118512,CNC-01,normal,33.11,Cycle standard,L1,OP009,apres-midi
+2026-02-10T04:49:12.118512,PRESS-02,arret,29.7,Maintenance corrective,L2,OP007,apres-midi
+2026-02-10T05:36:12.118512,PRESS-02,arret,49.49,Attente approvisionnement matière,L2,OP012,apres-midi
+2026-02-10T05:45:12.118512,CNC-01,normal,35.85,Fonctionnement optimal,L1,OP002,apres-midi
+2026-02-10T06:01:12.118512,PRESS-02,normal,23.96,Fonctionnement optimal,L2,OP008,apres-midi
+2026-02-10T06:10:12.118512,PRESS-02,micro_arret,3.49,Vérification qualité rapide,L2,OP008,apres-midi
+2026-02-10T07:26:12.118512,PRESS-02,ralentissement,97.96,Matière première non conforme,L2,OP010,apres-midi
+2026-02-10T07:28:12.118512,PRESS-02,normal,35.14,Production normale,L2,OP011,apres-midi
+2026-02-10T17:18:12.118512,PRESS-02,normal,49.58,Cycle standard,L2,OP003,matin
+2026-02-10T18:19:12.118512,PRESS-02,arret,47.6,Problème logiciel automate,L2,OP014,matin
+2026-02-10T18:55:12.118512,PRESS-02,normal,18.31,Cycle standard,L2,OP005,matin
+2026-02-10T19:49:12.118512,CNC-01,normal,42.65,Production normale,L1,OP012,matin
+2026-02-10T19:58:12.118512,CNC-01,ralentissement,139.92,Refroidissement insuffisant,L1,OP004,matin
+2026-02-10T20:15:12.118512,PRESS-02,normal,20.19,Production conforme,L2,OP014,matin
+2026-02-10T20:40:12.118512,PRESS-02,arret,90.33,Défaillance vérin pneumatique,L2,OP014,matin
+2026-02-10T20:44:12.118512,CNC-01,normal,47.26,Cycle standard,L1,OP006,matin
+2026-02-10T21:03:12.118512,CNC-01,normal,52.41,Production conforme,L1,OP015,matin
+2026-02-10T21:59:12.118512,CNC-02,normal,41.09,Production conforme,L1,OP013,matin
+2026-02-10T23:21:12.118512,CNC-01,normal,53.99,Fonctionnement optimal,L1,OP001,matin
+2026-02-11T00:30:12.118512,PRESS-02,normal,53.87,Fonctionnement optimal,L2,OP011,apres-midi
+2026-02-11T01:53:12.118512,CNC-02,normal,45.83,Production normale,L1,OP002,apres-midi
+2026-02-11T02:29:12.118512,CNC-01,micro_arret,4.03,Réglage paramètre machine,L1,OP002,apres-midi
+2026-02-11T02:32:12.118512,CNC-01,arret,99.13,Changement outillage complet,L1,OP005,apres-midi
+2026-02-11T03:10:12.118512,PRESS-01,normal,57.46,Cycle standard,L2,OP008,apres-midi
+2026-02-11T04:38:12.118512,CNC-01,arret,46.99,Problème logiciel automate,L1,OP011,apres-midi
+2026-02-11T04:45:12.118512,CNC-01,normal,57.66,Cycle standard,L1,OP001,apres-midi
+2026-02-11T04:52:12.118512,CNC-02,normal,18.12,Production normale,L1,OP011,apres-midi
+2026-02-11T05:51:12.118512,CNC-01,arret,86.09,Changement outillage complet,L1,OP006,apres-midi
+2026-02-11T08:09:12.118512,CNC-01,normal,27.56,Fonctionnement optimal,L1,OP010,apres-midi
+2026-02-11T18:42:12.118512,PRESS-01,normal,45.46,Cycle standard,L2,OP007,matin
+2026-02-11T19:21:12.118512,PRESS-01,normal,47.56,Production normale,L2,OP002,matin
+2026-02-11T20:38:12.118512,CNC-01,normal,46.09,Fonctionnement optimal,L1,OP013,matin
+2026-02-11T20:54:12.118512,CNC-02,normal,27.4,Fonctionnement optimal,L1,OP014,matin
+2026-02-11T21:47:12.118512,PRESS-01,ralentissement,40.66,Pression hydraulique faible,L2,OP002,matin
+2026-02-11T22:16:12.118512,CNC-01,micro_arret,3.71,Changement outil cassé,L1,OP009,matin
+2026-02-11T23:15:12.118512,PRESS-02,ralentissement,167.7,Température ambiante élevée,L2,OP015,matin
+2026-02-11T23:21:12.118512,ASSEMBLY-01,arret,92.05,Attente validation qualité,L3,OP015,matin
+2026-02-12T00:02:12.118512,ASSEMBLY-01,normal,44.94,Production conforme,L3,OP007,matin
+2026-02-12T00:04:12.118512,CNC-01,normal,36.53,Production conforme,L1,OP001,matin
+2026-02-12T01:14:12.118512,CNC-01,normal,31.87,Fonctionnement optimal,L1,OP001,apres-midi
+2026-02-12T03:15:12.118512,PRESS-02,normal,27.85,Cycle standard,L2,OP010,apres-midi
+2026-02-12T03:56:12.118512,ASSEMBLY-01,arret,14.9,Maintenance corrective,L3,OP015,apres-midi
+2026-02-12T04:01:12.118512,PRESS-01,normal,58.17,Fonctionnement optimal,L2,OP014,apres-midi
+2026-02-12T04:13:12.118512,CNC-01,normal,32.94,Production normale,L1,OP004,apres-midi
+2026-02-12T05:19:12.118512,ASSEMBLY-01,normal,39.69,Cycle standard,L3,OP003,apres-midi
+2026-02-12T06:03:12.118512,ASSEMBLY-01,normal,54.46,Production normale,L3,OP009,apres-midi
+2026-02-12T06:28:12.118512,PRESS-02,normal,58.33,Cycle standard,L2,OP005,apres-midi
+2026-02-12T06:37:12.118512,CNC-01,micro_arret,2.65,Changement outil cassé,L1,OP011,apres-midi
+2026-02-12T06:41:12.118512,CNC-01,arret,13.4,Formation nouvel opérateur,L1,OP013,apres-midi
+2026-02-12T07:08:12.118512,CNC-01,normal,49.27,Fonctionnement optimal,L1,OP013,apres-midi
+2026-02-12T08:24:12.118512,CNC-02,normal,16.14,Production normale,L1,OP015,nuit
